@@ -4,11 +4,13 @@ var miniTauArr = [];
 
 var dozits = '6.'
 
-for (i=0; i<400; i++) {
+//tauDigits is an array of 10000 strings of 10 digits except lest string has 9 digits
+
+for (i=0; i<800; i++) {
   miniTauArr.push(parseInt(tauDigits[i]));
 }
 
-for (j=0; j<3000; j++) {
+for (j=0; j<6000; j++) {
 
   var carryOver = 0;
 
@@ -40,4 +42,3 @@ var decTau = 6;
 for (i=2; i<10; i++) {
   decTau += dozits[i]*Math.pow(12,-(i-1));
 }
-// console.log(decTau);

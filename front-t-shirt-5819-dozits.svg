@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="tau-dozits.svg">
+   sodipodi:docname="front-t-shirt-5819-dozits.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="704.91511"
-     inkscape:cy="775.53984"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="336.51622"
+     inkscape:cy="124.83057"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -23370,6 +23370,6 @@
          sodipodi:role="line"
          id="tspan9163"
          x="932.8125"
-         y="989.86218"></tspan></text>
+         y="989.86218" /></text>
   </g>
 </svg>
